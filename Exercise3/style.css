@@ -1,0 +1,11 @@
+
+header {
+    background-image: url("background.jpg");
+    height: 100%;
+}
+hr {
+    margin-top: 100px;
+}
+.btn-info {
+    border-radius: 200px;
+}
